@@ -93,7 +93,7 @@ copy_of_information.pop()
 
 #practiing tuples
 
-yogi = ("German-Shepard, Husky MIX", 3, "Playful, energetic", "Dog")
+yogi = ("German-Shepard, Husky mix", 3, "Playful, energetic", "Dog")
 
 
 
